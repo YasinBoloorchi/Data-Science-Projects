@@ -1,0 +1,11 @@
+known-bugs,profit,delay,decision
+high,high,high,release
+medium,high,low,release
+medium,low,low,wait
+high,medium,low,wait
+high,low,high,wait
+low,low,low,wait
+high,high,low,wait
+low,low,high,release
+medium,medium,high,wait
+medium,high,high,release
